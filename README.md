@@ -3,4 +3,4 @@
 Open-source стандарт семантичного малювання.
 
 Документація:  
-https://YOUR_USERNAME.github.io/semantic-graphics/
+https://oleg-dorozhko.github.io/semantic-graphics/
